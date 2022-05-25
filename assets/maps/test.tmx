@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="8" height="8" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="../../../../../Desktop/Tilemap/tileset_colored.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="8" height="8">
+  <data encoding="csv">
+138,2684354697,2684354697,2684354697,2684354697,2684354697,2684354697,2684354698,
+137,385,355,355,355,355,385,137,
+137,417,387,360,360,387,417,137,
+137,417,1,417,326,1,417,137,
+137,417,1,1,41,1,417,137,
+137,386,355,355,355,355,386,137,
+137,417,387,417,421,387,417,137,
+1610612874,2684354697,2684354697,2684354697,197,2684354697,2684354697,3221225610
+</data>
+ </layer>
+</map>
